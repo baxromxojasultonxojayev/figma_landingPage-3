@@ -830,6 +830,10 @@
         background: blue;
     }
 
+    .build .build-title {
+        font-size: 26px;
+    }
+
     header .container .oval {
         background-size: 359px 334px;
         background-position: 27px 72px;
