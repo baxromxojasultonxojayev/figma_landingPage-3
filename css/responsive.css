@@ -941,4 +941,12 @@
     .container{
         width: 340px;
     }
+
+    .form input {
+        padding: 11px 48px;
+    }
+
+    .form select {
+        padding: 10px 45px;
+    }
 }
