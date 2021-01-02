@@ -1,0 +1,235 @@
+@media (max-width: 1140px){
+    .container{
+        width: 1000px;
+    }
+
+    .best .container .best-title {
+        padding: 10px 280px;
+        font-size: 50px;
+    }
+
+    .best-item {
+        width: 250px;
+    }
+}
+
+
+
+@media (max-width: 1000px){
+    .container{
+        width: 960px;
+    }
+    .comp{
+        width: 980px;
+    }
+    .best .container .best-title {
+        padding: 10px 250px;
+        font-size: 50px;
+    }
+
+    .easy .pic-1 {
+        width: 500px;
+        height: 350px;
+    }
+    .easy .pic-2 {
+        width: 500px;
+        height: 350px;
+    }
+    .save {
+        background-size: 200px 300px;
+    }
+}
+
+@media (max-width: 980px){
+    .container{
+        width: 940px;
+    }
+
+    .best .container .best-title {
+        padding: 10px 250px;
+        font-size: 50px;
+    }
+
+    .comp {
+        width: 900px;
+    }
+
+    .play {
+        top: 200px;
+        left: 450px;
+    }
+
+    .save {
+        background-size: 250px 300px;
+    }
+}
+
+@media (max-width: 940px){
+    .container{
+        width: 900px;
+    }
+
+    header .container {
+        margin-top: 50px;
+    }
+
+    header .container .build {
+        padding-left: 50px;
+    }
+
+    .build .build-title {
+        padding-right: 100px;
+    }
+
+    .best .container .best-title {
+        padding: 10px 220px;
+    }
+
+    .drag .container {
+        margin-top: 50px;
+    }
+
+    .compute{
+        padding-left: 70px;
+    }
+
+    .feature {
+        padding-left: 30px;
+    }
+
+    .feature h2 {
+        padding-right: 0px;
+    }
+
+    .feature p {
+        padding-right: 30px;
+    }
+
+    .page {
+        padding-left: 50px;
+    }
+
+    .page h2 {
+        font-size: 40px;
+    }
+
+    .page p {
+        padding-right: 80px;
+        padding-top: 20px;
+    }
+
+    .save {
+        background-size: 200px 280px;
+    }
+    footer ul li {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 900px){
+    *{
+        border: 1px solid red;
+    }
+    .container{
+        width: 860px;
+    }
+
+    .build .build-title {
+        padding-right: 50px;
+    }
+
+    .build-text {
+        padding-right: 50px;
+    }
+
+    .best-item {
+        width: 200px;
+    }
+    .best-item h3 {
+        padding-top: 10px;
+    }
+
+    .best-item p {
+        padding: 15px 5px;
+    }
+    .compute img{
+        width: 400px;
+    }
+
+    .easy .pic-1 {
+        width: 346px;
+        height: 350px;
+        background-image: url(../img/easy-pic-1.png);
+        background-size: 300px 400px;
+        background-repeat: no-repeat;
+    }
+    .easy .pic-2 {
+        background-image: url(../img/easy-pic-2.png);
+        background-size: 500px 400px;
+        background-repeat: no-repeat;
+    }
+
+    .user-image img{
+        width: 350px;
+    }
+
+    .question-text {
+        padding-top: 20px;
+    }
+
+    .question-item {
+        width: 300px;
+    }
+
+    .question-item h3{
+        font-size: 25px;
+    }
+
+    .question-list {
+        margin-left: 60px;
+        justify-content: space-around;
+    }
+    .comp {
+        width: 850px;
+    }
+}
+
+@media (max-width: 860px){
+    .container{
+        width: 800px;
+    }
+
+    .build .build-title {
+        padding-right: 0px;
+    }
+
+    .build-text {
+        padding-right: 0px;
+    }
+
+    .best .container .best-title {
+        padding: 10px 150px;
+    }
+
+    .comp {
+        width: 800px;
+    }
+
+    .feature h2 {
+        font-size: 40px;
+    }
+    .feature p {
+        padding-right: 0px;
+    }
+
+    .easy .easy-text {
+        padding: 15px 130px;
+    }
+
+}
+
+@media (max-width: 800px){
+    .container{
+        width: 760px;
+    }
+}
