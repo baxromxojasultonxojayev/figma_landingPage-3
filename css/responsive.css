@@ -443,4 +443,93 @@
     .container{
         width: 600px;
     }
+
+    header .container .build {
+        padding-left: 0px;
+    }
+
+    .best .container .best-title {
+        font-size: 35px;
+        padding: 9px 142px;
+    }
+
+    .comp {
+        width: 569px;
+    }
+
+    .play {
+        top: 127px;
+        left: 271px;
+        padding: 29px;
+    }
+
+    .best-item {
+        width: 150px;
+    }
+
+    .best-item p {
+        font-size: 12px;
+    }
+
+    .feature {
+        padding-left: 0px;
+    }
+
+    .easy .easy-text {
+        font-size: 11px;
+    }
+
+    .easy .pic-1 {
+        background-size: 226px 280px;
+    }
+
+    .easy .pic-2 {
+        background-size: 311px 280px;
+    }
+
+    .page h2 {
+        font-size: 30px;
+    }
+
+    .page {
+        padding-left: 9px;
+    }
+
+    .user-image img {
+        width: 290px;
+    }
+
+    .question-title {
+        font-size: 30px;
+    }
+
+    .question-text {
+        font-size: 12px;
+    }
+
+    .question-item {
+        width: 258px;
+    }
+
+    .question-item p {
+        font-size: 10px;
+    }
+
+    .save .container h2 {
+        font-size: 35px;
+    }
+
+    .save {
+        background-size: 165px 280px;
+    }
+
+    footer ul li {
+        font-size: 7px;
+    }
+}
+
+@media (max-width: 600px){
+    .container{
+        width: 560px;
+    }
 }
