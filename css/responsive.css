@@ -986,12 +986,17 @@
     }
 
     .save {
-        padding-top: 10px;
+        background-size: 117px 115px;
+        padding-top: 30px;
         min-height: 212px;
     }
 
     .save .container h2 {
         font-size: 25px;
+    }
+    footer ul {
+        width: 163px;
+        text-align: center;
     }
 
     footer ul li {
