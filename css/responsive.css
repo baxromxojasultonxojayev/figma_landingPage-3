@@ -1011,4 +1011,9 @@
     .save .container h2 {
         font-size: 21px;
     }
+
+    footer ul {
+        width: 163px;
+        text-align: center;
+    }
 }
