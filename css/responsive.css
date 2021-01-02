@@ -1022,3 +1022,14 @@
         text-align: center;
     }
 }
+
+@media (max-width: 300px){
+    .container{
+        width: 100%;
+    }
+
+    footer ul {
+        width: 163px;
+        text-align: center;
+    }
+}
