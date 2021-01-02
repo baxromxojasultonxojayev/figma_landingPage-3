@@ -817,6 +817,10 @@
         width: 100%;
     }
 
+    .omega {
+        font-size: 35px;
+    }
+
     .nav-list{
         display: none;
     }
