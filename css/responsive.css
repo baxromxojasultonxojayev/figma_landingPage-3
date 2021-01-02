@@ -1007,4 +1007,8 @@
         background-size: 258px 260px;
         background-position: 19px 119px;
     }
+
+    .save .container h2 {
+        font-size: 21px;
+    }
 }
