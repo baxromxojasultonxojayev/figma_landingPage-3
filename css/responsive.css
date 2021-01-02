@@ -942,9 +942,9 @@
         width: 340px;
     }
 
-    .oval {
-        background-size: 294px 306px;
-        background-position: 22px 72px;
+    header .container .oval {
+        background-size: 297px 306px;
+        background-position: 19px 72px;
     }
 
     .form input {
