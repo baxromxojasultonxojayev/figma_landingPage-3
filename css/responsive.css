@@ -814,7 +814,7 @@
 
 @media (max-width: 460px){
     .container{
-        width: 100%;
+        width: 420px;
     }
 
     .omega {
@@ -834,12 +834,35 @@
     }
 
     header .container .oval {
-        background-size: 403px 387px;
-        background-position: 14px 13px;
+        background-size: 359px 334px;
+        background-position: 27px 72px;
+    }
+
+    .form select {
+        padding: 10px 88px;
     }
 
     .best-item {
         width: 100%;
+    }
+
+    .best .container .best-title {
+        font-size: 35px;
+        padding: 9px 52px;
+    }
+
+    .comp {
+        width: 408px;
+    }
+
+    .easy .pic-1 {
+        background-size: 141px 215px;
+        height: 194px;
+    }
+
+    .easy .pic-2 {
+        background-size: 197px 217px;
+        height: 193px;
     }
 
     .save-link {
@@ -853,5 +876,35 @@
     footer ul {
         width: 136px;
         text-align: center;
+    }
+
+    footer ul li {
+        font-size: 9px;
+    }
+}
+
+@media (max-width: 420px){
+    .container{
+        width: 380px;
+    }
+
+}
+
+@media (max-width: 400px){
+    .container{
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 360px){
+    .container{
+        width: 100%;
+    }
+}
+
+@media (max-width: 320px){
+    .container{
+        width: 100%;
     }
 }
