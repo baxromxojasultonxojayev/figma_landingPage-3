@@ -127,9 +127,6 @@
 }
 
 @media (max-width: 900px){
-    *{
-        border: 1px solid red;
-    }
     .container{
         width: 860px;
     }
