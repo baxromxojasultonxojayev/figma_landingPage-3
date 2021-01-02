@@ -865,11 +865,6 @@
         height: 193px;
     }
 
-    .save {
-        padding-top: 10px;
-        min-height: 212px;
-    }
-
     .save-link {
         margin: 16px;
     }
@@ -991,7 +986,7 @@
     }
 
     .save {
-        padding-top: 50px;
+        padding-top: 10px;
         min-height: 212px;
     }
 
