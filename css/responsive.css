@@ -942,11 +942,59 @@
         width: 340px;
     }
 
+    .oval {
+        background-size: 294px 306px;
+        background-position: 22px 72px;
+    }
+
     .form input {
         padding: 11px 48px;
     }
 
     .form select {
         padding: 10px 45px;
+    }
+
+    .best .container .best-title {
+        font-size: 35px;
+        padding: 9px 16px;
+    }
+
+    .comp {
+        width: 329px;
+    }
+
+    .play {
+        top: 77px;
+        left: 155px;
+        padding: 8px;
+        width: 37px;
+    }
+    .play img{
+        width: 10px;
+        margin-right: 0;
+    }
+
+    .easy .pic-1 {
+        background-size: 104px 160px;
+        height: 142px;
+    }
+
+    .easy .pic-2 {
+        background-size: 146px 162px;
+        height: 140px;
+    }
+
+    .save {
+        padding-top: 50px;
+        min-height: 212px;
+    }
+
+    .save .container h2 {
+        font-size: 25px;
+    }
+
+    footer ul li {
+        padding: 12px 0;
     }
 }
