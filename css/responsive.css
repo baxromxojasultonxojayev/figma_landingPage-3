@@ -888,23 +888,44 @@
         width: 380px;
     }
 
-}
-
-@media (max-width: 400px){
-    .container{
-        width: 100%;
+    header .container .oval {
+        background-size: 326px 306px;
+        background-position: 27px 72px;
     }
-}
 
-
-@media (max-width: 360px){
-    .container{
-        width: 100%;
+    .best .container .best-title {
+        font-size: 35px;
+        padding: 9px 35px;
     }
+
+    .comp {
+        width: 368px;
+    }
+
+    .play {
+        top: 87px;
+        left: 162px;
+        padding: 12px;
+        width: 47px;
+    }  
+    
+    .easy .pic-1 {
+        background-size: 124px 196px;
+        height: 175px;
+    }
+
+    .easy .pic-2 {
+        background-size: 170px 211px;
+        height: 184px;
+    }
+    .question-item {
+        line-height: 40px;
+    }
+
+    footer ul li {
+        padding: 10px 11px;
+    }
+    
+
 }
 
-@media (max-width: 320px){
-    .container{
-        width: 100%;
-    }
-}
