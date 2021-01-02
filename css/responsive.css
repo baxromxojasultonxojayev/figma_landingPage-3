@@ -998,3 +998,13 @@
         padding: 12px 0;
     }
 }
+@media (max-width: 340px){
+    .container{
+        width: 300px;
+    }
+
+    header .container .oval {
+        background-size: 258px 260px;
+        background-position: 19px 119px;
+    }
+}
