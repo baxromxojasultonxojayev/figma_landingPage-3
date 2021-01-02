@@ -898,6 +898,14 @@
         padding: 9px 35px;
     }
 
+    .form input {
+        padding: 11px 69px;
+    }
+
+    .form select {
+        padding: 10px 66px;
+    }
+
     .comp {
         width: 368px;
     }
@@ -929,3 +937,8 @@
 
 }
 
+@media (max-width: 380px){
+    .container{
+        width: 340px;
+    }
+}
