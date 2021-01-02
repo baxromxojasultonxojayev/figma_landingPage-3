@@ -532,4 +532,322 @@
     .container{
         width: 560px;
     }
+
+    nav .container .get {
+        padding: 6px 8px;
+    }
+
+    header .container {
+        margin-top: 20px;
+    }
+
+    header .container .oval {
+        background-size: 264px 250px;
+        background-position: 23px 153px;
+    }
+
+    header .container .form {
+        width: 214px;
+    }
+
+    .form input {
+        padding: 10px 4px;
+    }
+
+    .form select {
+        padding: 10px 36px;
+    }
+
+    .form button {
+        padding: 12px 31px;
+    }
+
+    .build .build-title {
+        font-size: 30px;
+    }
+
+    .build-text {
+        font-size: 12px;
+    }
+
+    .best .container .best-title {
+        font-size: 35px;
+        padding: 9px 113px;
+    }
+
+    .best-item {
+        width: 144px;
+    }
+
+    .best-item h3 {
+        font-size: 18px;
+    }
+
+    .best-item p {
+     font-size: 12px;
+        line-height: 20px;
+    }
+
+    .compute img {
+        width: 290px;
+    }
+
+    .easy .easy-text {
+        padding: 15px 100px;
+    }
+
+    .easy .pic-1 {
+        background-size: 208px 283px;
+    }
+
+    .easy .pic-2 {
+        background-size: 285px 280px;
+    }
+
+    .user-image img {
+        width: 263px;
+    }
+
+    .question-item {
+        width: 238px;
+        line-height: 30px;
+    }
+
+    .question-item p {
+        line-height: 20px;
+    }
+
+    .save .container h2 {
+        font-size: 30px;
+    }
+
+    .save {
+        background-size: 172px 210px;
+    }
+
+    footer ul {
+        display: block;
+    }
+    footer ul li {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 560px){
+    .container{
+        width: 500px;
+    }
+
+    header .container{
+        display: block;
+        text-align: center;
+    }
+
+    header .container .form {
+        width: 100%;
+    }
+    header .container .oval {
+        background-size: 403px 387px;
+        background-position: 46px 13px;
+    }
+
+    .form input {
+        padding: 11px 95px;
+    }
+    .form select {
+        padding: 10px 93px;
+    }
+    .build .build-title {
+        font-size: 35px;
+    }
+
+    .best .container .best-title {
+        font-size: 35px;
+        padding: 9px 73px;
+    }
+
+    .comp {
+        width: 489px;
+    }
+
+    .play {
+        top: 108px;
+        left: 211px;
+        padding: 26px;
+    }
+
+    .build-text {
+        font-size: 15px;
+    }   
+
+    .best-item {
+        width: 188px;
+    }
+
+    .compute img {
+        width: 248px;
+        margin-top: 39px;
+    }
+
+    .easy .easy-text {
+        padding: 15px 64px;
+    }
+    .easy .pic-1 {
+        background-size: 181px 269px;
+    }
+
+    .easy .pic-2 {
+        background-size: 246px 266px;
+    }
+
+    .user-image img {
+        width: 232px;
+        margin-bottom: 80px;
+    }
+
+    .question-item {
+        width: 100%;
+        text-align: center;
+        line-height: 60px;
+    }
+
+    footer .container{
+        justify-content: space-between;
+    }
+    
+}
+
+@media (max-width: 500px){
+    .container{
+        width: 460px;
+    }
+
+    header .container .build {
+        padding-left: 0px;
+        width: 100%;
+    }
+    .form input {
+        width: 100%;
+    }
+
+    header .container .oval {
+        background-size: 403px 387px;
+        background-position: 30px 13px;
+    }
+
+    .comp {
+        width: 448px;
+    }
+
+    .play {
+        top: 98px;
+        left: 195px;
+        padding: 22px;
+        width: 62px;
+    }
+
+    .drag .container {
+        margin-top: 10px;
+        display: block;
+    }
+
+    .compute img {
+        width: 100%;
+        margin-top: 0
+    }
+    .feature {
+        width: 100%;
+        text-align: center;
+    }
+
+    .easy .pic-1 {
+        background-size: 162px 269px;
+    }
+
+    .easy .pic-2 {
+        background-size: 222px 266px;
+    }
+
+    .easy .pic-1 {
+        height: 235px;
+    }
+
+    .easy .pic-2 {
+        height: 232px;
+    }
+
+    .user .container{
+        display: block;
+        text-align: center;
+    }
+
+    .page{
+        width: 100%;
+    }
+
+    .user-image img {
+        width: 100%;
+        margin-bottom: 0px;
+    }
+
+    .save-link {
+        margin: 20px;
+    }
+
+    .save {
+        background-size: 125px 158px;
+    }
+
+    .save {
+        min-height: 258px;
+    }
+
+    footer ul{
+        width: 180px;
+        text-align: center;
+    }
+
+    footer .container p{
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 460px){
+    .container{
+        width: 100%;
+    }
+
+    .nav-list{
+        display: none;
+    }
+
+    .humburg{
+        display: flex;
+    }
+
+    .humburg:hover{
+        background: blue;
+    }
+
+    header .container .oval {
+        background-size: 403px 387px;
+        background-position: 14px 13px;
+    }
+
+    .best-item {
+        width: 100%;
+    }
+
+    .save-link {
+        margin: 16px;
+    }
+
+    .save .container h2 {
+        font-size: 27px;
+    }
+
+    footer ul {
+        width: 136px;
+        text-align: center;
+    }
 }
